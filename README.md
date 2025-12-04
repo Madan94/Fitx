@@ -1,4 +1,4 @@
-# LofiFit
+# Fitx
 
 LofiFit pays you to stay fit—earn crypto for your workouts.It combines AI, live contests, and optional betting to make fitness fun and rewarding.
 
